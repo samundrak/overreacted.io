@@ -31,7 +31,7 @@ class Bio extends React.Component {
           <a href="https://twitter.com/kardnumas">Samundra Khatri</a>. <br />
           <i>
             Trying to write notes about what i learned so, in future i can take
-            it as reference and also to improve my english.
+            it as reference.
           </i>
         </p>
       </div>
