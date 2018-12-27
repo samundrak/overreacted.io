@@ -32,6 +32,10 @@ class Bio extends React.Component {
           <i>
             Trying to write notes about what i learned so, in future i can take
             it as reference.
+            <br />
+            <sub>
+              This is not a blog or tutorial site and please forgive my english.
+            </sub>
           </i>
         </p>
       </div>
