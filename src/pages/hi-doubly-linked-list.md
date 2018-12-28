@@ -18,7 +18,7 @@ The project I am working is like an image editor where you can add / edit /crop/
 
 ## Array
 
-In first I thought of adding all the state in the array where I will push every state and whenever I have to do undo i will just pop it from array but after some thinking I thought this will be expensive as pop, slice, shift will rearrange the whole item every time I will call this method. Also, I have to keep track Array index so that I can return the exact state while undoing like if I want an item from last than I have to do is `A[currentIndex-1]`.To solve this problem I thought of some data structure and DLL was the perfect thing which will fit this requirement.
+In first I thought of adding all the state in the array where I will push every state and whenever I have to do undo i will just pop it from array but after some thinking I thought this will be expensive as pop, slice, shift will rearrange the whole item every time I will call this method. Also, I have to keep track Array index so that I can return the exact state while undoing like if I want an item from last then I have to do is `A[currentIndex-1]`.To solve this problem I thought of some data structure and DLL was the perfect thing which will fit this requirement.
 
 ## Hello! DLL
 
