@@ -4,7 +4,7 @@ date: '2018-12-27'
 spoiler: Using doubly linked list
 ---
 
-While learning data structure I always used to think that when will I use this thing in my real life projects but recently while working in a project, I felt that here I can use a data structure and that gonna be Doubly Linked List.
+While learning data structure I always used to think that when will I use this thing in my real life projects but recently while working in a project, I feel that here I can use a data structure and that gonna be Doubly Linked List.
 
 ## What is Doubly Linked List?
 
