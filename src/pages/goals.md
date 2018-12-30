@@ -4,8 +4,6 @@ date: '2018-12-30'
 spoiler: Set your goals about your learning and future
 ---
 
-# Goals
-
 Learning random things on the internet that pops in your Reddit, Twitter is always fun and interesting, but learning things to reach your goal is always fascinating and a satisfactory thing.
 what’s the best way to go about acquiring intellectual
 capital with which to fund your portfolio? Here are a few suggestions.
